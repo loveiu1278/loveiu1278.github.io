@@ -20,7 +20,7 @@ title                    : "Are Online"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Are Online"
-description              : "Are Online 홈페이지 입니다!"
+description              : "Are Online"
 url                      : "https://loveiu1278.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
